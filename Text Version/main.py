@@ -1,4 +1,3 @@
-import time
 import random
 
 def read_words(file_name, words):
@@ -155,8 +154,6 @@ while run:
 		total_count += 1
 		if print_man(total_count, word) == 1:
 			run = False
-
-
 
 	for i in guess_word:
 		if i != '_':
