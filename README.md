@@ -1,2 +1,2 @@
 # HangMan Game in Python
-##ToDo: - UI version with Pygame
+## ToDo: - UI version with Pygame
